@@ -1,2 +1,3 @@
-# AI-Based-Diabetes-Prediction
-A  very basic machine learning model built using primitive python libraries and tools
+# Diabetes Prediction
+
+Explored the diabetes dataset of patients and experimented with various classification and regression algorithms to predict the likelihood of diabetes for a patient.
